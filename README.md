@@ -27,4 +27,4 @@ https://shopsphere.page.gd
 This project was developed as part of my learning in web development during my Bachelor of Computer Applications (BCA). It demonstrates backend integration, database management, and dynamic web application development.
 
 ## 👨‍💻 Author
-Manoj
+Manoj s
